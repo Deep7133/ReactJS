@@ -1,8 +1,8 @@
 // import Greet from "./component/Greet"
 
-import Footer from "./component/Footer"
-import Header from "./component/Header"
-import MainContent from "./component/MainContent"
+import Footer from "./components/Footer.jsx"
+import Header from "./components/Header.jsx"
+import MainContent from "./components/MainContent.jsx"
 
 function App() {
   return (

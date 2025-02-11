@@ -1,4 +1,4 @@
-import Greet from "./components/Greet"
+import Greet from "./components/Greet.jsx"
 
 function App() {
   return (

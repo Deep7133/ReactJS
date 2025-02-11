@@ -1,7 +1,7 @@
 import React from 'react'
 
 export default function Greeting() {
-    const name = "Jenish"
+    const name = "Deep"
     return (
     <>
       <h1> Hello, {name} </h1>
